@@ -1,6 +1,3 @@
-> ***Please carefully read the [Disclaimer of Liability](#disclaimer-of-liability) below first.***  
-> All materials in this archive are for reference only. The actual one may vary. 
-
 # Appointment_Organizer_Project
 
 
